@@ -1,5 +1,18 @@
 # MEXC AutoTrade Bot 🚀
 
+
+MY TELEGRAM - https://t.me/dever_dev
+MY TELEGRAM - https://t.me/dever_dev
+MY TELEGRAM - https://t.me/dever_dev
+
+
+## 🎬 Demo: Trade MEXC Futures from Telegram
+
+[![Watch the demo](https://img.youtube.com/vi/NnhdNhSFyrM/0.jpg)](https://youtu.be/NnhdNhSFyrM)
+
+
+
+
 **The Ultimate Telegram Bot for Automated Futures Trading on MEXC**
 
 Welcome to the **MEXC AutoTrade Bot**, a powerful and unique solution designed for traders seeking to automate their futures trading on the MEXC exchange. This bot integrates seamlessly with MEXC's futures API and provides real-time trade execution, position management, and profit/loss (PNL) tracking directly in Telegram. No other tool on the market offers this level of automation and user-friendly interaction for MEXC futures trading!
@@ -60,3 +73,18 @@ The bot communicates with MEXC's futures API, signs requests with your API token
    ```bash
    git clone https://github.com/yourusername/mexc-autotrade-bot.git
    cd mexc-autotrade-bot
+
+
+   MY TELEGRAM - https://t.me/dever_dev
+MY TELEGRAM - https://t.me/dever_dev
+MY TELEGRAM - https://t.me/dever_dev
+
+MY TELEGRAM - https://t.me/dever_dev
+MY TELEGRAM - https://t.me/dever_dev
+MY TELEGRAM - https://t.me/dever_dev
+
+MY TELEGRAM - https://t.me/dever_dev
+MY TELEGRAM - https://t.me/dever_dev
+MY TELEGRAM - https://t.me/dever_dev
+
+
